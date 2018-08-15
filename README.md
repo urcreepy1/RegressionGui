@@ -10,7 +10,7 @@ A grphical user interface were user selects the requied “.csv” file for ther
 
 Things to Add :
 
-• Regression classes for analysing the selected columns
+• Radio button that describes the data
 
 • radio button that describes the data the info of data
 
